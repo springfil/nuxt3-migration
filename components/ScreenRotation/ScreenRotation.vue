@@ -26,7 +26,7 @@
     width: 7rem;
     height: 7rem;
 
-    background: url('@/assets/ScreenRotation/flip-phone.png');
+    background: url('~/assets/img/ScreenRotation/flip-phone.png');
     background-size: cover;
     background-position: center;
 }
